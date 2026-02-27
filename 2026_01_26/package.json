@@ -1,0 +1,21 @@
+{
+  "name": "2026_01_26",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "dev_alt": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Victor G. V. (https://fishellvvv.github.io/portfolio/)",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
