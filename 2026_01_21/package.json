@@ -1,0 +1,14 @@
+{
+  "name": "2026_01_21",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "Victor G. V. (https://fishellvvv.github.io/portfolio/)",
+  "license": "ISC",
+  "type": "commonjs"
+}
