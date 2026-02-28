@@ -1,0 +1,19 @@
+{
+  "name": "2026_02_11",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "albumseed": "node ./src/seeds/albums.seed.js"
+  },
+  "keywords": [],
+  "author": "Victor G. V. (https://fishellvvv.github.io/portfolio/)",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.2.3"
+  }
+}
