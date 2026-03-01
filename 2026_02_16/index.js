@@ -13,7 +13,7 @@ const server = express();
 // Tenemos que indicarle que vamos a trabajar con JSON
 server.use(express.json());
 
-// Deefinimos las rutas que tenemos
+// Definimos las rutas que tenemos
 server.use("/api/videogames", videogamesRouter);
 
 // Definimos el controlador de rutas no encontradas
